@@ -1358,7 +1358,10 @@ line-height: 3rem;
 }
 .main {
   width: 85%;
-  margin-top: -7rem;
+  margin-top: -5%;
+}
+.strengths{
+  justify-content: center;
 }
 h1{
   text-align:center;
@@ -1408,6 +1411,10 @@ h1{
   width: 100%;
   margin-top: 1rem;
   flex-direction: column;
+  margin: 0.5rem 0; 
+}
+.text-header {
+  height: 6rem;
 }
 nav {
  display: none;
@@ -1429,14 +1436,15 @@ nav {
 .icons {
   height: 5.5rem;
   width: 5.5rem;
+  margin: 1rem 0.5rem 1rem 0.5rem;
 }
 .icons img{
-  width: 35%;
+  width: 30%;
 }
 .text-1 {
   left: 10%;
   width: 80%;
-  bottom: 23%;
+  bottom: 21%;
 }
 .text-2 {
   bottom: 10%;
