@@ -723,7 +723,6 @@ nav{
   padding: 10px 30px;
   color: #fff;
   text-decoration: none;
-  border: 1px solid #Fff;
   background: #968DFF;
   border-radius: 10px;
   text-align: center;
@@ -1420,7 +1419,7 @@ nav {
  display: none;
 }
 .hero {
-  margin-bottom: 18%;
+  margin-bottom: 22%;
 }
 .hero-content h1 {
   font-size: 2rem;
@@ -1461,7 +1460,8 @@ nav {
 .experience {
   justify-content: flex-start;
   flex-wrap: wrap;
-  min-height: 110vh;
+  min-height: 120vh;
+  margin-bottom: 2rem;
 }
 .experience-content {
   width: 100%;
@@ -1610,6 +1610,7 @@ font-size: 2rem;
 font-size: 2rem;
 line-height: 2.5rem;
 padding: 0 1rem;
+margin-top: 2rem;
 }
 .content p {
   width: 100%;
